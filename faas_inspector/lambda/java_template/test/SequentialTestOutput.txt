@@ -1,0 +1,157 @@
+Pass 1
+---------------------
+loading data of file 1
+Pass 2
+---------------------
+loading data of file 2
+Pass 3
+---------------------
+loading data of file 3
+Pass 4
+---------------------
+loading data of file 4
+Pass 5
+---------------------
+loading data of file 5
+Pass 6
+---------------------
+loading data of file 6
+Pass 7
+---------------------
+loading data of file 7
+Pass 1
+---------------------
+loading data of file 1
+Invoking Lambda function using AWS CLI
+start time : 1544501335.854050603
+AWS CLI RESULT:
+
+Total of 3.762153661 seconds elapsed for process through AWS CLI
+Pass 2
+---------------------
+loading data of file 2
+Invoking Lambda function using AWS CLI
+start time : 1544501339.657445940
+AWS CLI RESULT:
+
+Total of 1.057090413 seconds elapsed for process through AWS CLI
+Pass 3
+---------------------
+loading data of file 3
+Invoking Lambda function using AWS CLI
+start time : 1544501340.736347722
+AWS CLI RESULT:
+
+Total of .950385073 seconds elapsed for process through AWS CLI
+Pass 4
+---------------------
+loading data of file 4
+Invoking Lambda function using AWS CLI
+start time : 1544501341.714265823
+AWS CLI RESULT:
+
+Total of 1.078798241 seconds elapsed for process through AWS CLI
+Pass 5
+---------------------
+loading data of file 5
+Invoking Lambda function using AWS CLI
+start time : 1544501342.818486320
+AWS CLI RESULT:
+
+Total of 1.155261029 seconds elapsed for process through AWS CLI
+Pass 6
+---------------------
+loading data of file 6
+Invoking Lambda function using AWS CLI
+start time : 1544501344.001173710
+AWS CLI RESULT:
+
+Total of 1.137246359 seconds elapsed for process through AWS CLI
+Pass 7
+---------------------
+loading data of file 7
+Invoking Lambda function using AWS CLI
+start time : 1544501345.163182209
+AWS CLI RESULT:
+
+Total of 1.064586625 seconds elapsed for process through AWS CLI
+Pass 1
+---------------------
+loading data of file 1
+Invoking Lambda function using AWS CLI
+start time : 1544502815.480343006
+AWS CLI RESULT:
+
+Total of 1.038245802 seconds elapsed for process through AWS CLI
+Pass 2
+---------------------
+loading data of file 2
+Invoking Lambda function using AWS CLI
+start time : 1544502816.542335604
+AWS CLI RESULT:
+
+Total of 1.007393573 seconds elapsed for process through AWS CLI
+Pass 3
+---------------------
+loading data of file 3
+Invoking Lambda function using AWS CLI
+start time : 1544502817.579226324
+AWS CLI RESULT:
+
+Total of .929940035 seconds elapsed for process through AWS CLI
+Pass 4
+---------------------
+loading data of file 4
+Invoking Lambda function using AWS CLI
+start time : 1544502818.535416730
+AWS CLI RESULT:
+
+Total of 1.282340325 seconds elapsed for process through AWS CLI
+Pass 5
+---------------------
+loading data of file 5
+Invoking Lambda function using AWS CLI
+start time : 1544502819.844325382
+AWS CLI RESULT:
+
+Total of 1.339860640 seconds elapsed for process through AWS CLI
+Pass 6
+---------------------
+loading data of file 6
+Invoking Lambda function using AWS CLI
+start time : 1544502821.215398249
+AWS CLI RESULT:
+
+Total of .940455310 seconds elapsed for process through AWS CLI
+Pass 7
+---------------------
+loading data of file 7
+Invoking Lambda function using AWS CLI
+start time : 1544502822.174083581
+AWS CLI RESULT:
+
+Total of .879760233 seconds elapsed for process through AWS CLI
+Pass 8
+---------------------
+loading data of file 8
+Invoking Lambda function using AWS CLI
+start time : 1544502823.071429071
+AWS CLI RESULT:
+
+Total of .898225878 seconds elapsed for process through AWS CLI
+Pass 9
+---------------------
+loading data of file 9
+Invoking Lambda function using AWS CLI
+start time : 1544502823.987033126
+AWS CLI RESULT:
+
+Total of 1.237481902 seconds elapsed for process through AWS CLI
+Pass 10
+---------------------
+loading data of file 10
+Invoking Lambda function using AWS CLI
+start time : 1544502825.257178941
+AWS CLI RESULT:
+
+Total of 1.403932511 seconds elapsed for process through AWS CLI
